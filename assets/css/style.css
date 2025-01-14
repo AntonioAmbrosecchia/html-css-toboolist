@@ -1,0 +1,13 @@
+:root {
+    --tl-blue: #47adf1;
+    --tl-lightblue: #45abea;
+    --tl-purple: #9c72e4;
+    --tl-green: #64c0a9;
+    --tl-orange: #f29e33;
+    --tl-pink: #d863a1;
+    --tl-lightgreen: #b0c926;
+}
+
+* {
+    margin: 0;
+}
