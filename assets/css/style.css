@@ -10,4 +10,18 @@
 
 * {
     margin: 0;
+    background-color: #f6f8f9;
+}
+
+.logo {
+    padding-left: 1rem;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: white;
+}
+
+.scritta_logo {
+    background-color: white;
+    font-size: 40px;
 }
